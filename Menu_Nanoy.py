@@ -202,7 +202,7 @@ def Activity():
             elif choice_act < 0:
                 print("\n\tError! Please Enter A Positive Number.")
                 continue
-            elif choice_act >= 27:
+            elif choice_act >= 26:
                 print("\n\tError! Please Only Enter A Number From The Given Choices.")
                 continue
             else:
