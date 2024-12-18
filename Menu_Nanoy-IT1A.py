@@ -9,7 +9,7 @@ from Activity import ( activity1, activity2, activity3,activity4, activity5,
                       activity21, activity22, activity23, activity24, activity25
                       )
 
-from Code_Challenges import( code_challange1, code_challange2, code_challenge4, code_challenge5,
+from Code_Challenges import( code_challange1, code_challange2, code_challenge3, code_challenge4, code_challenge5,
                             code_challenge6, code_challenge7, code_challenge8, code_challenge9, code_challenge10, 
                             code_challenge11, code_challenge12, code_challenge13, code_challenge14, code_challenge15,
                             code_challenge16
@@ -237,7 +237,7 @@ def Code_Challenges():
                 continue
             elif num_cc == 3:
                 Clear()
-                code_challenge13.code_challenge3()
+                code_challenge3.code_challenge3()
                 continue
             elif num_cc == 4:
                 Clear()
